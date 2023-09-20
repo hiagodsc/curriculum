@@ -190,7 +190,6 @@ h1 {
     align-items: center;
     justify-content: center;
     width: 30%;
-    height: 100vh;
   }
 
   #main {
@@ -199,10 +198,11 @@ h1 {
     width: 60%;
   }
 
-  #main div, section {
+  #main div,
+  section {
     padding: 2%;
   }
-  
+
   #career-info {
     display: flex;
     flex-direction: row;
