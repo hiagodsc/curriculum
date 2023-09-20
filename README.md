@@ -35,4 +35,4 @@ O projeto foi baseado no meu modelo pessoal de currículo, que você pode visual
 
 ---
 
-Feito com ♥ by Hiagodsc :wave: [Me siga no Instagram!](https://www.instagram.com/hiagodsc/)
+Feito com ♥ by Hiagodsc :wave: [Me siga no Instagram!](https://www.instagram.com/hiagodsc/).
